@@ -15,3 +15,15 @@ The data utilised for this project is sourced from the publicly available NSW Va
 13. Primary Purpose (string and numerical ID)
 14. Component Code (string and numerical ID)
 15. Sale Code
+
+The models trained on this data include:
+- Random Forest Regressor 
+- ADABoost Regressor, 
+- Support Vector Regressor
+- Decision Tree Regressor
+- Neural Network
+- Gradient Boosted Regressor. 
+
+The best solution was identified through evaluating each algorithm's result with respect to absolute mean error, mean error range and R-squared percentage.
+
+The best performing model was the Random Forest with an Absolute Mean Error of 239355.05 an Absolute Mean Error Range 505675.57 - 984385.68 and an R-Squared Percentage of 61%.
