@@ -1,0 +1,9 @@
+Assignment 2 
+
+Code link:
+
+	https://colab.research.google.com/drive/1VxA0i0aLpKwKsT4WTDUtWjAXv2DddF_i?usp=sharing
+
+Data link (not needed to run collab):
+	
+	https://drive.google.com/drive/folders/0AGC5mU8cSq0JUk9PVA
